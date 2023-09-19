@@ -1,5 +1,5 @@
 
-## Project Description
+## Project Description ( Keywords: Computer vision; Quality control; Manufacturing engineering; Die casting;  defects prediction )
 🏭 Casting is a manufacturing process in which a liquid material is poured into a mold that contains a hollow cavity of the desired shape and then allowed to solidify. There are three types of casting processes: Sand Casting, Die Casting, and Lost Wax Casting.
 
 🛠️ There are many types of defects in casting like holes, burr, shrinkage defects, mold material defects, pouring metal defects, metallurgical defects, etc.
