@@ -30,9 +30,11 @@
 
 - 🧩Preprocessing the Test Set:
     - 🔄 Rescaling: For the test set, I would only perform rescaling to ensure consistency in the data. This is crucial to ensure that the model sees the data in a format similar to what it was trained on.
-  
+
+  
 **Building the CNN Model:**
 1- Simply, I perform a series of convolution + pooling operations, followed by flattening and a number of fully connected layers. Then, I compile and train the model.
+
 
 
 **Model Evaluation:**
@@ -41,6 +43,7 @@
 - 📉 Analyze confusion matrix
 
 **Model prediction:**
+
 Making predictions
 
 <img width="811" alt="Screen Shot 2023-09-18 at 5 24 18 PM" src="https://github.com/ZTECH10/Die-Casting-Automatic-Defect-Detection-using-Convolutional-neural-networks-CNNs-/assets/53150477/a5bafb20-c11f-49b4-8099-198bba301d50">
